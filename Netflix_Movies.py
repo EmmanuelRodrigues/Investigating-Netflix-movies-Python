@@ -48,4 +48,5 @@ ax.set_title('Average Movie Duration by Release Year', fontsize=14)
 plt.grid(True)
 plt.show()
 
-# É possível observar uma tendência de queda entre os períodos de 2000 a 2020, se aproximando mais da faixa de média de 75 minutos, enquanto de 1965 a 2000 os filmes se mantinham entre 100 e 125 minutos. Ao analisar as oscilações de 1960 a 2000, não é possível definir uma tendência clara para a duração dos filmes.
+# É possível observar uma tendência de queda entre os períodos de 2000 a 2020, se aproximando mais da faixa de média de 75 minutos, enquanto de 1965 a 2000 os filmes se mantinham entre 100 e 125 minutos. 
+# Ao analisar as oscilações de 1960 a 2000, não é possível definir uma tendência clara para a duração dos filmes.
